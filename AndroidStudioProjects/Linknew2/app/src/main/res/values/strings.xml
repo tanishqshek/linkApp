@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Linknew</string>
+    <string name="drawer_item_embedded_drawer">Embedded Drawer</string>
+    <string name="import1">Import</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="gallery">Gallery</string>
+    <string name="home">Home</string>
+    <string name="open_drawer">Open Drawer </string>
+    <string name="close_drawer">Close Drawer </string>
+
+</resources>
