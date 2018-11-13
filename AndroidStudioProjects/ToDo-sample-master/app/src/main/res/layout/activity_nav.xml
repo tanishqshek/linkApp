@@ -1,0 +1,38 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:orientation="vertical"
+    tools:context="com.example.ashwin_10_3.attendancemanager.NavActivity">
+
+    <TextView
+        android:id="@+id/Attendance"
+        style="@style/CategoryStyle"
+        android:background="@color/category_numbers"
+        android:text="@string/category_numbers"
+        android:onClick="AttActivity"/>
+
+    <TextView
+        android:id="@+id/todo"
+        style="@style/CategoryStyle"
+        android:background="@color/category_family"
+        android:text="@string/category_family"
+        android:onClick="MainActivity"/>
+
+    <TextView
+        android:id="@+id/lib"
+        style="@style/CategoryStyle"
+        android:background="@color/category_colors"
+        android:text="@string/category_colors"
+        android:onClick="LibActivity"/>
+
+    <TextView
+        android:id="@+id/docs"
+        style="@style/CategoryStyle"
+        android:background="@color/category_phrases"
+        android:text="@string/category_phrases"
+        android:onClick="ImpDocs"/>
+
+</LinearLayout>

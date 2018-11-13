@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Link App</string>
+    <string name="add_task_button">Add Task</string>
+    <string name="category_phrases">Attendance</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Important Documents</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Library</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">To-Do List</string>
+    <string name="library">Library</string>
+</resources>
